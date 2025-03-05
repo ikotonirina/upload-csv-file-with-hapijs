@@ -18,7 +18,6 @@ This project consists of two parts: a **backend** built with **Hapi.js** (Node.j
   - [**Environment Variables**](#environment-variables)
     - [**Backend (`backend/.env`)**](#backend-backendenv)
     - [**Frontend (`frontend/.env`)**](#frontend-frontendenv)
-  - [**Contributors**](#contributors)
 
 ---
 
@@ -111,11 +110,3 @@ VITE_API_BASE_URL=http://localhost:4000
 ```
 
 **After modifying `.env`, restart the servers.**
-
----
-
-## **Contributors**
-
-- **Your Name**
-
-Feel free to improve and extend the project! 🚀
