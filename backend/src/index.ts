@@ -1,6 +1,6 @@
 import * as Hapi from "@hapi/hapi";
 import * as Inert from "@hapi/inert";
-import { uploadRoutes } from "./routes/uploadRoutes";
+import uploadRoutes from "./routes/uploadRoutes";
 
 const init = async () => {
   const server = Hapi.server({
